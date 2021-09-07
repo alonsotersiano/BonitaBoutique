@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonitaBoutique", "BonitaBoutique\BonitaBoutique.csproj", "{8E82F9E9-59B3-40FC-ABDD-5532E73F3330}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{CFE48B7A-9C95-408E-A4D4-1EB3AB707AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E82F9E9-59B3-40FC-ABDD-5532E73F3330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E82F9E9-59B3-40FC-ABDD-5532E73F3330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E82F9E9-59B3-40FC-ABDD-5532E73F3330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E82F9E9-59B3-40FC-ABDD-5532E73F3330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE48B7A-9C95-408E-A4D4-1EB3AB707AEC}.Debug|Any CPU.ActiveCfg = Debug
+		{CFE48B7A-9C95-408E-A4D4-1EB3AB707AEC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C338768-9FBE-4A6E-B399-5948A69A1221}
+	EndGlobalSection
+EndGlobal
