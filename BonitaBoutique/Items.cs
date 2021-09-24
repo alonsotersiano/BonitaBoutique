@@ -173,10 +173,6 @@ namespace BonitaBoutique
             varQuery.Clear();
         }
 
-        private void BarcodeTb_TextChanged(object sender, EventArgs e)
-        {
-            Search();
-        }
         private void SearchBtn_Click(object sender, EventArgs e)
         {
             Search();

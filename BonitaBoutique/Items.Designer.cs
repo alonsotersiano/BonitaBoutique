@@ -338,7 +338,6 @@ namespace BonitaBoutique
             this.BarcodeTb.Name = "BarcodeTb";
             this.BarcodeTb.Size = new System.Drawing.Size(258, 22);
             this.BarcodeTb.TabIndex = 18;
-            this.BarcodeTb.TextChanged += new System.EventHandler(this.BarcodeTb_TextChanged);
             // 
             // label6
             // 
